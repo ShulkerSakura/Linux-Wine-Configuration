@@ -116,6 +116,7 @@ exit 0
 至此您已经完成了所有配置,尽情享受吧w  
 ## 六,特别鸣谢  
 [CSDN-Debian10安装wine及用wine安装微信、QQ与TIM](https://blog.csdn.net/pabcsxyz/article/details/108132593)  
-[CSDN-ubuntu下解决deepin-wine-qq无法加载图片的问题](hhttps://blog.csdn.net/weixin_44823747/article/details/105559615)  
+
+[CSDN-ubuntu下解决deepin-wine-qq无法加载图片的问题](https://blog.csdn.net/weixin_44823747/article/details/105559615)  
 
 <!--Project-By-ShulkerSakura-->
