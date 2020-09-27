@@ -1,6 +1,6 @@
 # #Debian-Buster-Wine-QQ  
 ### Q&A: 这篇MarkDown文档有什么用?  
-本篇文档为Debian(10-Buster)及其衍生发行版提供了一套稳定可用的Wine配置方案用于替换在[Depian-Project](https://github.com/ShulkerWalker/Depian-Project)中某些应用环境中无法使用fcitx在远程X11程序中进行输入的Bug(已知为Fcitx方面的Bug)。  
+本篇文档为Debian(10-Buster)及其衍生发行版提供了一套稳定可用的Wine配置方案用于替换在[Depian-Project](https://github.com/ShulkerWalker/Depian-Project) 中某些应用环境中无法使用fcitx在远程X11程序中进行输入的Bug(已知为Fcitx方面的Bug)。  
 ## 一,处理FAudio部分依赖  
 ### 1.导入FAudio钥匙  
 下载本Repo中的Release.key并用下面的指令导入:  
